@@ -1,0 +1,28 @@
+
+---
+
+️⃣ Archivo `CITATION.cff``
+
+```yaml
+cff-version: 1.2.0
+title: Smart Viticulture – DCC (Doctorate in Computer Science, ITESM)
+authors:
+  - family-names: Peña Sandoval
+    given-names: Edgar Eduardo
+date-released: 2025-10-21
+version: "1.0"
+license: MIT
+repository-code: https://github.com/<your-GitHub-username>/Smart-Viticulture-DCC
+abstract: >
+  Hybrid optical–AI sensing system for vineyard optimization, combining multimode fiber interferometry,
+  machine learning, and computer vision. Doctoral project under the Doctorate in Computer Science (DCC)
+  at Tecnológico de Monterrey, Campus Monterrey.
+keywords:
+  - Optical fiber sensing
+  - Machine learning
+  - Multimode interferometry
+  - Computer vision
+  - Precision agriculture
+contact:
+  email: e.pena.sandoval01@gmail.com
+  institution: Tecnológico de Monterrey
